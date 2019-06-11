@@ -38,7 +38,7 @@ Per executar el programa (pubsub.py en el nostre cas) utilitzem la següent coma
 python3 pubsub.py 
 ```
 
-Si volem un número personalitzat de "slaves" fem servir la següent comanda, sent el límit superior 18 i 1'inferior 1. Qualsevol altre valor que superi aquests limits quedara limitat.
+Si volem un número personalitzat de "slaves" fem servir la següent comanda, sent el límit superior 18 i l'inferior 1. Qualsevol altre valor que superi aquests limits quedara limitat.
 
 ```bash
 python3 pubsub.py 15
